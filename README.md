@@ -1,4 +1,4 @@
-# Hi, I'm maxim955827848
+# Hi, I'm Maxim Kushnir
 
 Systems Architect & Backend Engineer specializing in high-throughput asynchronous execution, deterministic simulation engines, and production AI control boundaries.
 
