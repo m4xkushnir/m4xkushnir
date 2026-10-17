@@ -55,4 +55,4 @@ Small, runnable versions of patterns from Ventute, with the domain logic removed
 - Harvard CS50's Introduction to AI with Python
 - Saylor Academy CS107: C++ Programming
 
-maxim955827848@icloud.com · [LinkedIn](https://www.linkedin.com/in/maxim-kushnir-7a78993a2/)
+[LinkedIn](https://www.linkedin.com/in/maxim-kushnir-7a78993a2/)
