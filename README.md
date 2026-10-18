@@ -31,6 +31,7 @@ I speak English, Italian and Ukrainian.
 ## Open source
 
 - **vLLM** [#51560](https://github.com/vllm-project/vllm/pull/51560) (open): model initialisation now fails fast with a clear error on unsupported GPU architectures, instead of an opaque runtime failure later on.
+- **RESTHeart** (SoftInstigate's open-source MongoDB backend): reported two access-control vulnerabilities in per-user read filters and change streams, fixed in the [9.8.2 security release](https://github.com/SoftInstigate/restheart/releases/tag/9.8.2). I also prototyped Python plugins on GraalPy and contributed design review to the Python SDK [RFC #759](https://github.com/SoftInstigate/restheart/issues/759).
 
 ## Standalone examples
 
